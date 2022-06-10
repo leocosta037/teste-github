@@ -1,4 +1,4 @@
-# Repoitório do Desafio teste-github
+# Repositório do Desafio teste-github
 Desafio de Projeto sobre Git/GitHub
 
 ## Links Úteis
